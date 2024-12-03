@@ -1,7 +1,7 @@
 # RFID_FINAL문서입니다
 
 프로젝트 명 : 물류혁신, RFID로 관리하는 스마트 물류 시스템
-
+<server code> https://github.com/Gstars01/RFID_FINAL/blob/main/new_scatch.pde
 1. 개요
 효율적인 물류 관리 시스템을 개발하고자 본 프로젝트를 시작하였습니다.
 
