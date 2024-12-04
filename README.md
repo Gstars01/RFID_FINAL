@@ -16,16 +16,13 @@
 [![YouTube 영상 보기](https://img.youtube.com/vi/RTNUoELAHT8/0.jpg)](https://www.youtube.com/watch?v=RTNUoELAHT8)
 
 <hr>
-1. 개요
-효율적인 물류 관리 시스템을 개발하고자 본 프로젝트를 시작하였습니다.
+<p>1. 개요 , 효율적인 물류 관리 시스템을 개발하고자 본 프로젝트를 시작하였습니다.</p>
 
-2. 목표
-본 프로젝트의 목적은 RFID, Bluetooth, Wi-Fi 기술을 활용하여 물류 데이터를 자동으로 식별, 전송, 관리할 수 있는 시스템을 구축하는 것입니다.
+<p>2. 목표 , 본 프로젝트의 목적은 RFID, Bluetooth, Wi-Fi 기술을 활용하여 물류 데이터를 자동으로 식별, 전송, 관리할 수 있는 시스템을 구축하는 것입니다.</p>
 
-3. 주요 구성요소
-RFID, BlueTooth,wifi,mitappinventor,processing
+<p>3. 주요 구성요소 , RFID, BlueTooth,wifi,mitappinventor,processing</p>
 
-4. 구현 및 동작 원리
+<p>4. 구현 및 동작 원리</p>
   (1) RFID 리더기가 태그를 스캔하여 물품의 UID(고유 ID)를 인식
 
   (2) 인식된 데이터는 Bluetooth 모듈로 전달
