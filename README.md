@@ -8,8 +8,8 @@
 <p>arduino : https://github.com/Gstars01/RFID_FINAL/blob/main/RFID.ino</p>
 <p>보고서 : https://github.com/Gstars01/RFID_FINAL/blob/main/%EC%B0%BD%EC%9D%98%EA%B3%B5%ED%95%99_9%EC%A1%B0(%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C).hwpx</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RTNUoELAHT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![YouTube 영상 보기](https://img.youtube.com/vi/RTNUoELAHT8/0.jpg)](https://www.youtube.com/watch?v=RTNUoELAHT8)
 
 1. 개요
 효율적인 물류 관리 시스템을 개발하고자 본 프로젝트를 시작하였습니다.
