@@ -23,6 +23,7 @@
 <p>3. 주요 구성요소 , RFID, BlueTooth,wifi,mitappinventor,processing</p>
 
 <p>4. 구현 및 동작 원리</p>
+  
   (1) RFID 리더기가 태그를 스캔하여 물품의 UID(고유 ID)를 인식
 
   (2) 인식된 데이터는 Bluetooth 모듈로 전달
